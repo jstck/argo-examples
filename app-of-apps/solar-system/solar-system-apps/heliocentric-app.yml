@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/jonathanvdwatt/argo-examples.git
+    repoURL: https://github.com/jstck/argo-examples.git
     targetRevision: HEAD
     path: app-of-apps/solar-system/manifests/heliocentric-model
    
